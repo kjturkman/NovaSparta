@@ -1,16 +1,17 @@
-.App {
+.Main-title {
+  font-size: 300%;
+  color: white;
+}
+
+.Main-subtitle {
+  font-size: 150%;
+  color: white;
+}
+
+.Main-container {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  background-color: black;
+  min-height: 100vh;
 }
 
 .App-header {
